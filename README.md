@@ -3,7 +3,7 @@
 MP3 Tag Editor is a simple desktop application used to edit metadata for MP3 audio files.
 
 - Simple and Easy use and installation.
-- Lightweight, Fast, Useful and Effucient.
+- Lightweight, Fast, Useful and Efficient.
 - Open-Source code
 
 ## Features
