@@ -23,7 +23,7 @@ And of course MP3 Tag Editor itself is open source with a [public repository](ht
 
 ## Requirements
 
-MP3 Tag Editor will run on any Windows Operating System that has .NET v4.0+ installed.
+MP3 Tag Editor will run on any Windows Operating System that has .NET v4.3+ installed.
 
 ## License
 
